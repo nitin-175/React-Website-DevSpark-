@@ -78,7 +78,7 @@ export default function Footer() {
 
                 {showTopBtn && (
                     <div
-                        className="go-top"
+                        className="go-to-top-btn"
                         onClick={goTop}
                         role="button"
                         tabIndex={0}
