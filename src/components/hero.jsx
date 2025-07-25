@@ -4,7 +4,7 @@ import Carousel from 'react-bootstrap/Carousel';
 var heroData = [
     {
         id: 1,
-        image: "/public/Images/img-hero1.jpg",
+        image: "/Images/img-hero1.jpg",
         title: "Crafted Website Design",
         description:
             "Crafted to impress and built to perform, our designs blend aesthetics with functionality to give your website a professional edge.",
@@ -12,7 +12,7 @@ var heroData = [
     },
     {
         id: 2,
-        image: "/public/Images/img-hero2.jpg",
+        image: "/Images/img-hero2.jpg",
         title: "Start Your Future Financial Plan",
         description:
             "Take control of your tomorrow—build a smart, secure, and sustainable financial plan tailored to your goals.",
@@ -20,7 +20,7 @@ var heroData = [
     },
     {
         id: 3,
-        image: "/public/Images/img-hero3.jpg",
+        image: "/Images/img-hero3.jpg",
         title: "Enjoy the Difference",
         description:
             "Experience innovation, quality, and service that truly set us apart—because you deserve more than ordinary.",
